@@ -18,3 +18,13 @@
 * Imitated project `downloadXkcd.py` from [Automate the Boring Stuff](https://automatetheboringstuff.com/) by Al Sweigart
 
 **Thoughts:** Downloading the pictures from devhumor opened many ideas for web scraping
+
+
+### Day 3: June 14, 2018
+### Language: Python
+
+**Today's Progress:**
+* Worked on `tqdm` module to add progress bar on my devhumor picture downloader
+
+**Thoughts:** Waiting a picture to be downloaded needs a progress bar ;)
+**Project:** [devhumor-pictures-downloader](https://github.com/zd-zero/devhumor-pictures-downloader)
