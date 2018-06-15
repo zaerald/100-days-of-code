@@ -28,3 +28,11 @@
 
 **Thoughts:** Waiting a picture to be downloaded needs a progress bar ;)
 **Project:** [devhumor-pictures-downloader](https://github.com/zd-zero/devhumor-pictures-downloader)
+
+### Day 4: June 15, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Finished basic HTML and CSS tasks from [Free Code Camp](https://www.freecodecamp.org/)
+
+**Thoughts:** Going back from FCC is a good thing, because I noticed the improvement of their site.
