@@ -36,3 +36,12 @@
 * Finished basic HTML and CSS tasks from [Free Code Camp](https://www.freecodecamp.org/)
 
 **Thoughts:** Going back from FCC is a good thing, because I noticed the improvement of their site.
+
+
+### Day 5: June 16, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Finished Applied Visual Design from [Free Code Camp](https://www.freecodecamp.org/)
+
+**Thoughts:** Finishing Applied Visual Design had a better grasp on animations.
