@@ -14,7 +14,7 @@
 
 **Today's Progress:**
 * Worked on `requests` and `Beautiful Soup`
-* Downloads the latest pictures from [devhumor](http://devhumor.com/)
+* Downloads the latest pictures from [devhumor][devhumor]
 * Imitated project `downloadXkcd.py` from [Automate the Boring Stuff](https://automatetheboringstuff.com/) by Al Sweigart
 
 **Thoughts:** Downloading the pictures from devhumor opened many ideas for web scraping
@@ -33,7 +33,7 @@
 ### Language: HTML, CSS
 
 **Today's Progress:**
-* Finished basic HTML and CSS tasks from [Free Code Camp](https://www.freecodecamp.org/)
+* Finished basic HTML and CSS tasks from [Free Code Camp][fcc]
 
 **Thoughts:** Going back from FCC is a good thing, because I noticed the improvement of their site.
 
@@ -42,6 +42,19 @@
 ### Language: HTML, CSS
 
 **Today's Progress:**
-* Finished Applied Visual Design from [Free Code Camp](https://www.freecodecamp.org/)
+* Finished Applied Visual Design from [Free Code Camp][fcc]
 
 **Thoughts:** Finishing Applied Visual Design had a better grasp on animations.
+
+
+### Day 6: June 17, 2018
+### Language: HTML
+
+**Today's Progress:**
+* Finished Applied Accessibility from [Free Code Camp][fcc]
+
+**Thoughts:** I never knew `accesskey` and `tabindex` exists!
+
+
+[devhumor]: http://devhumor.com/
+[fcc]: https://www.freecodecamp.org/
