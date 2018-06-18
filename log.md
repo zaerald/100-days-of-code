@@ -56,5 +56,15 @@
 **Thoughts:** I never knew `accesskey` and `tabindex` exists!
 
 
+### Day 7: June 18, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Finished Responsive Web Design Principles from [Free Code Camp][fcc]
+* Worked on CSS Flexbox from [Free Code Camp][fcc]
+
+**Thoughts:** Working with responsive is not new to me, but it's still a good refresher.
+
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
