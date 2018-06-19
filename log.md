@@ -66,5 +66,14 @@
 **Thoughts:** Working with responsive is not new to me, but it's still a good refresher.
 
 
+### Day 8: June 19, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Finished CSS Flexbox from [Free Code Camp][fcc]
+* Finished CSS Grid from [Free Code Camp][fcc]
+
+**Thoughts:** Working with flexbox and grid is really a game changer.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
