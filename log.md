@@ -75,5 +75,15 @@
 
 **Thoughts:** Working with flexbox and grid is really a game changer.
 
+
+### Day 9: June 20, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Finished Build a Survey Form from [Free Code Camp][fcc]
+
+**Thoughts:** Having a tester from FCC is a good thing, to better check if I really fulfilled the user story requirements.
+**Project:** [FCC Build a Survey Form](https://codepen.io/zd-zero/pen/oyEmKW)
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
