@@ -80,7 +80,7 @@
 ### Language: HTML, CSS
 
 **Today's Progress:**
-* Finished Build a Survey Form from [Free Code Camp][fcc]
+* Finished "Build a Survey Form" from [Free Code Camp][fcc]
 
 **Thoughts:** Having a tester from FCC is a good thing, to better check if I really fulfilled the user story requirements.
 **Project:** [FCC Build a Survey Form](https://codepen.io/zd-zero/pen/oyEmKW)
