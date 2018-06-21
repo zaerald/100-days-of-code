@@ -85,5 +85,15 @@
 **Thoughts:** Having a tester from FCC is a good thing, to better check if I really fulfilled the user story requirements.
 **Project:** [FCC Build a Survey Form](https://codepen.io/zd-zero/pen/oyEmKW)
 
+
+### Day 10: June 21, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Worked on Build a Survey Form from [Free Code Camp][fcc]
+
+**Thoughts:** Feeling tired, I just passed all the tests without a good content or even a design.
+**Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
