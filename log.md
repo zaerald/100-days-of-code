@@ -99,9 +99,9 @@
 ### Language: CSS
 
 **Today's Progress:**
-* Finished "Build a Survey Form" from [Free Code Camp][fcc]
+* Worked on "Build a Survey Form" styles from [Free Code Camp][fcc]
 
-**Thoughts:** Adding CSS, improves the UI/UX.
+**Thoughts:** Feeling tired again. After almost 3 hours of travelling.
 **Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
 
 [devhumor]: http://devhumor.com/
