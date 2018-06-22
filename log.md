@@ -95,5 +95,14 @@
 **Thoughts:** Feeling tired, I just passed all the tests without a good content or even a design.
 **Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
 
+### Day 11: June 22, 2018
+### Language: CSS
+
+**Today's Progress:**
+* Finished "Build a Survey Form" from [Free Code Camp][fcc]
+
+**Thoughts:** Adding CSS, improves the UI/UX.
+**Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
