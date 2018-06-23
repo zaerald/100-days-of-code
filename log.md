@@ -110,7 +110,7 @@
 ### Language: HTML, CSS
 
 **Today's Progress:**
-* Finished "Build a Survey Form" from [Free Code Camp][fcc]
+* Worked on "Build a Survey Form" from [Free Code Camp][fcc]
 
 **Thoughts:** Deciding which color or content to use is hard, so I just have to experiment on things rather than having some inspiration.
 **Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
