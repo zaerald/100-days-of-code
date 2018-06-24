@@ -115,5 +115,15 @@
 **Thoughts:** Deciding which color or content to use is hard, so I just have to experiment on things rather than having some inspiration.
 **Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
 
+
+### Day 13: June 24a, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Worked on "Build a Survey Form" from [Free Code Camp][fcc]
+
+**Thoughts:** Small wins motivates me to work on it, even if the pace is slow.
+**Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
