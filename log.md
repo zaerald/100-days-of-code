@@ -116,13 +116,23 @@
 **Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
 
 
-### Day 13: June 24a, 2018
+### Day 13: June 24, 2018
 ### Language: HTML, CSS
 
 **Today's Progress:**
 * Worked on "Build a Survey Form" from [Free Code Camp][fcc]
 
 **Thoughts:** Small wins motivates me to work on it, even if the pace is slow.
+**Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
+
+
+### Day 14: June 25, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Finished "Build a Survey Form" from [Free Code Camp][fcc]
+
+**Thoughts:** Having mobile-first approach is a good thing because mobiles are not just a trend anymore, it's the present, so by targeting the mobiles first is a good thing.
 **Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
 
 [devhumor]: http://devhumor.com/
