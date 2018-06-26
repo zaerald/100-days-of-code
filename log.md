@@ -135,5 +135,15 @@
 **Thoughts:** Having mobile-first approach is a good thing because mobiles are not just a trend anymore, it's the present, so by targeting the mobiles first is a good thing.
 **Project:** [FCC Build a Product Landing Page](https://codepen.io/zd-zero/pen/vrRQQa)
 
+
+### Day 15: June 26, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Worked on "Build a Technical Documentation Page" from [Free Code Camp][fcc]
+
+**Thoughts:** Starting with markup first makes it easier for adding styles later.
+**Project:** [FCC Build a Technical Documentation Page](https://codepen.io/zd-zero/pen/eKLWWW)
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
