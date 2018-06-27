@@ -145,5 +145,15 @@
 **Thoughts:** Starting with markup first makes it easier for adding styles later.
 **Project:** [FCC Build a Technical Documentation Page](https://codepen.io/zd-zero/pen/eKLWWW)
 
+
+### Day 16: June 27, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Worked on "Build a Technical Documentation Page" from [Free Code Camp][fcc]
+
+**Thoughts:** I started doing mobile size layouts first, as I expand, I'll add complexity on the project.
+**Project:** [FCC Build a Technical Documentation Page](https://codepen.io/zd-zero/pen/eKLWWW)
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
