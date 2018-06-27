@@ -155,5 +155,15 @@
 **Thoughts:** I started doing mobile size layouts first, as I expand, I'll add complexity on the project.
 **Project:** [FCC Build a Technical Documentation Page](https://codepen.io/zd-zero/pen/eKLWWW)
 
+
+### Day 17: June 28, 2018
+### Language: HTML, CSS
+
+**Today's Progress:**
+* Finished "Build a Technical Documentation Page" from [Free Code Camp][fcc]
+
+**Thoughts:** Now I'm pretty comfortable with working on mobile size layouts first.
+**Project:** [FCC Build a Technical Documentation Page](https://codepen.io/zd-zero/pen/eKLWWW)
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
