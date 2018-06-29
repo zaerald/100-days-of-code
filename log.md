@@ -165,5 +165,14 @@
 **Thoughts:** Now I'm pretty comfortable with working on mobile size layouts first.
 **Project:** [FCC Build a Technical Documentation Page](https://codepen.io/zd-zero/pen/eKLWWW)
 
+
+### Day 18: June 29, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Skimmed the Javascript basics and fundamentals.
+
+**Thoughts:** Skimming Javascriopt basics is a good thing to refresh my knowledge about the language.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
