@@ -174,5 +174,16 @@
 
 **Thoughts:** Skimming Javascriopt basics is a good thing to refresh my knowledge about the language.
 
+
+### Day 19: June 30, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished "Javscript Drum Kit" from [#Javascript30][js30]
+
+**Thoughts:** Working on Javascript without jQuery is now much easier with es6;
+
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
+[js30] https://javascript30.com/
