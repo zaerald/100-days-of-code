@@ -184,6 +184,16 @@
 **Thoughts:** Working on Javascript without jQuery is now much easier with es6;
 
 
+### Day 20: July 1, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Studied more about Javascript ES6
+* Created prototypes to study ES6
+
+**Thoughts:** Having ES6 on Javascript makes the language more better.
+
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30] https://javascript30.com/
