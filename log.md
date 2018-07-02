@@ -201,7 +201,7 @@
 * Finished Basic Javascript from [Free Code Camp][fcc]
 * Worked on ES6 from [Free Code Camp][fcc]
 
-**Thoughts:** Having ES6 on Javascript makes the language more better.
+**Thoughts:** Working with ES6 makes it easier to code without adding different libraries.
 
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
