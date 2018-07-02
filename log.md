@@ -194,6 +194,15 @@
 **Thoughts:** Having ES6 on Javascript makes the language more better.
 
 
+### Day 21: July 2, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished Basic Javascript from [Free Code Camp][fcc]
+* Worked on ES6 from [Free Code Camp][fcc]
+
+**Thoughts:** Having ES6 on Javascript makes the language more better.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
