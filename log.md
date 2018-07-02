@@ -196,4 +196,4 @@
 
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
-[js30] https://javascript30.com/
+[js30]: https://javascript30.com/
