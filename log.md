@@ -203,6 +203,16 @@
 
 **Thoughts:** Working with ES6 makes it easier to code without adding different libraries.
 
+
+### Day 22: July 3, 2018
+### Language: CSS, Javascript
+
+**Today's Progress:**
+* Finished "CSS + JS Clock" from [#Javascript30][js30]
+* Worked on ES6 from [Free Code Camp][fcc]
+
+**Thoughts:** I'm now having fun working with Javascript.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
