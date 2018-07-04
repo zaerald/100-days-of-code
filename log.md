@@ -213,6 +213,16 @@
 
 **Thoughts:** I'm now having fun working with Javascript.
 
+
+### Day 23: July 4, 2018
+### Language: CSS, Javascript
+
+**Today's Progress:**
+* Worked on ES6 from [Free Code Camp][fcc]
+* Worked on Regular Expressions from [Free Code Camp][fcc]
+
+**Thoughts:** Working with regex is not a new thing for me, but it's a good refresher.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
