@@ -223,6 +223,15 @@
 
 **Thoughts:** Working with regex is not a new thing for me, but it's a good refresher.
 
+
+### Day 24: July 5, 2018
+### Language: 
+
+**Today's Progress:**
+* Worked on Regular Expressions from [Free Code Camp][fcc]
+
+**Thoughts:** I can't be productive for today, because I feel sick.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
