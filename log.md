@@ -225,7 +225,7 @@
 
 
 ### Day 24: July 5, 2018
-### Language: 
+### Language: Javascript
 
 **Today's Progress:**
 * Worked on Regular Expressions from [Free Code Camp][fcc]
