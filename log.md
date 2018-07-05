@@ -232,6 +232,16 @@
 
 **Thoughts:** I can't be productive for today, because I feel sick.
 
+
+### Day 25: July 6, 2018
+### Language: CSS, Javascript
+
+**Today's Progress:**
+* Finished "Playing with CSS Variables" from [#Javascript30][js30]
+
+
+**Thoughts:** Having CSS Variables is cool, and manipulating it with Javascript made it cooler!
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
