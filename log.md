@@ -239,8 +239,17 @@
 **Today's Progress:**
 * Finished "Playing with CSS Variables" from [#Javascript30][js30]
 
-
 **Thoughts:** Having CSS Variables is cool, and manipulating it with Javascript made it cooler!
+
+
+### Day 26: July 7, 2018
+### Language: CSS, Javascript
+
+**Today's Progress:**
+* Finished "Array Cardio Day 1" from [#Javascript30][js30]
+* Finished Regular Expressions
+
+**Thoughts:** It's really hard to start working with it until you do it.
 
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
