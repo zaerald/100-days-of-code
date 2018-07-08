@@ -243,7 +243,7 @@
 
 
 ### Day 26: July 7, 2018
-### Language: CSS, Javascript
+### Language: Javascript
 
 **Today's Progress:**
 * Finished "Array Cardio Day 1" from [#Javascript30][js30]
