@@ -251,6 +251,15 @@
 
 **Thoughts:** It's really hard to start working with it until you do it.
 
+
+### Day 27: July 8, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished "Flex Panels Image Gallery" from [#Javascript30][js30]
+
+**Thoughts:** Working with flex boxes and manipulating it creates creative ideas.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
