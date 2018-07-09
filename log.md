@@ -260,6 +260,17 @@
 
 **Thoughts:** Working with flex boxes and manipulating it creates creative ideas.
 
+
+### Day 28: July 9, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished "Ajax Type Ahead" from [#Javascript30][js30]
+* Finished "Debugging" from [FCC][fcc]
+* Worked on "Basic Data Structures" from [FCC][fcc]
+
+**Thoughts:** Having learned to manipulate arrays, there's a lot more ways to write it cleanly.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
