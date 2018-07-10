@@ -271,6 +271,15 @@
 
 **Thoughts:** Having learned to manipulate arrays, there's a lot more ways to write it cleanly.
 
+
+### Day 29: July 10, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished "Array Cardio Day 2" from [#Javascript30][js30]
+
+**Thoughts:** First time I encountered these functions on Javascript arrays, there are so many things I don't know!
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
