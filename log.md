@@ -280,6 +280,14 @@
 
 **Thoughts:** First time I encountered these functions on Javascript arrays, there are so many things I don't know!
 
+### Day 30: July 11, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished "Fun with HTML5 Canvas" from [#Javascript30][js30]
+
+**Thoughts:** I finally experienced working with canvas.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
