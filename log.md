@@ -288,6 +288,16 @@
 
 **Thoughts:** I finally experienced working with canvas.
 
+
+### Day 31: July 12, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished "14 Must Know Dev Tools Tricks" from [#Javascript30][js30]
+* Finished "Hold Shift to Check Multiple Checkboxes" from [#Javascript30][js30]
+
+**Thoughts:** These tricks are really good especially when debugging.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
