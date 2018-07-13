@@ -298,6 +298,15 @@
 
 **Thoughts:** These tricks are really good especially when debugging.
 
+
+### Day 32: July 13, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished "Custom HTML5 Video Player" from [#Javascript30][js30]
+
+**Thoughts:** I'm really enjoying this course, it makes building things with Javascript exciting.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
