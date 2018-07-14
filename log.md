@@ -307,6 +307,15 @@
 
 **Thoughts:** I'm really enjoying this course, it makes building things with Javascript exciting.
 
+
+### Day 33: July 14, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished "Key Sequence Detection (KONAMI CODE)" from [#Javascript30][js30]
+
+**Thoughts:** This time it gives you fancy things to do.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
