@@ -316,6 +316,15 @@
 
 **Thoughts:** This time it gives you fancy things to do.
 
+
+### Day 34: July 15, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished "Slide In on Scroll" from [#Javascript30][js30]
+
+**Thoughts:** Got a better idea on how wowjs works
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
