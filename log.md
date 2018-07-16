@@ -325,6 +325,16 @@
 
 **Thoughts:** Got a better idea on how wowjs works
 
+
+### Day 35: July 16, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Worked on "Object Oriented Programming" from [Free Code Camp][fcc]
+
+**Thoughts:** A bit confused about `prototype` and `constructor` in Javascript
+
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
