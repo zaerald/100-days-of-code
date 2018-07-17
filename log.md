@@ -335,6 +335,14 @@
 **Thoughts:** A bit confused about `prototype` and `constructor` in Javascript
 
 
+### Day 36: July 17, 2018
+### Language: Java
+
+**Today's Progress:**
+* Worked on Standard Widget Toolkit
+
+**Thoughts:** SWT was similar to Swing but with different implementations and widgets.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
