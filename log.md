@@ -343,6 +343,15 @@
 
 **Thoughts:** SWT was similar to Swing but with different implementations and widgets.
 
+
+### Day 37: July 17, 2018
+### Language: Java
+
+**Today's Progress:**
+* Worked on Standard Widget Toolkit
+
+**Thoughts:** I studied the concepts and tried imitating some examples.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
