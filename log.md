@@ -344,7 +344,7 @@
 **Thoughts:** SWT was similar to Swing but with different implementations and widgets.
 
 
-### Day 37: July 17, 2018
+### Day 37: July 18, 2018
 ### Language: Java
 
 **Today's Progress:**
