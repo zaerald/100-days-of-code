@@ -352,6 +352,15 @@
 
 **Thoughts:** I studied the concepts and tried imitating some examples.
 
+
+### Day 38: July 19, 2018
+### Language: Java
+
+**Today's Progress:**
+* Studied streams, generics and lambdas
+
+**Thoughts:** About the lambdas I get it, but it feels like I still didn't get it
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
