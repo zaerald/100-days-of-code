@@ -361,6 +361,15 @@
 
 **Thoughts:** About the lambdas I get it, but it feels like I still didn't get it
 
+
+### Day 39: July 20, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Worked on "Object Oriented Programming" on [Free Code Camp][fcc]
+
+**Thoughts:** I'm confused with `prototype` and `constructor` on javascript.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
