@@ -370,6 +370,15 @@
 
 **Thoughts:** I'm confused with `prototype` and `constructor` on javascript.
 
+
+### Day 40: July 21, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Worked on "Object Oriented Programming" on [Free Code Camp][fcc]
+
+**Thoughts:** I'm getting the hang of OOP concepts in Javascript.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
