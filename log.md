@@ -379,6 +379,15 @@
 
 **Thoughts:** I'm getting the hang of OOP concepts in Javascript.
 
+
+### Day 41: July 22, 2018
+### Language: Javascript
+
+**Today's Progress:**
+* Finished "Object Oriented Programming" on [Free Code Camp][fcc]
+
+**Thoughts:** Learning a different language makes me think differently.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
