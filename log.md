@@ -388,6 +388,15 @@
 
 **Thoughts:** Learning a different language makes me think differently.
 
+
+### Day 42: July 23, 2018
+### Language: PHP
+
+**Today's Progress:**
+* Worked on routes using PHP in order to understand how frameworks implements routes.
+
+**Thoughts:** By having routes, it makes it easier for you to handle url requests and display a page associated with the URL request.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
