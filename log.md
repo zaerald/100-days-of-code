@@ -397,6 +397,15 @@
 
 **Thoughts:** By having routes, it makes it easier for you to handle url requests and display a page associated with the URL request.
 
+
+### Day 43: July 24, 2018
+### Language: Java
+
+**Today's Progress:**
+* Studied and worked on Design Patterns
+
+**Thoughts:** Design patterns are really useful to create clean code.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
