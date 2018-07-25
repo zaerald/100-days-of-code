@@ -406,6 +406,15 @@
 
 **Thoughts:** Design patterns are really useful to create clean code.
 
+
+### Day 44: July 25, 2018
+### Language: Java
+
+**Today's Progress:**
+* Studied and worked on Streams.
+
+**Thoughts:** Streams and other Java 8 features makes the code less verbose.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
