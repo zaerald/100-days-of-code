@@ -415,6 +415,16 @@
 
 **Thoughts:** Streams and other Java 8 features makes the code less verbose.
 
+
+### Day 45: July 26, 2018
+### Language: Java
+
+**Today's Progress:**
+* Studied and worked on Interface with `default` methods
+* Worked with behavior parameterization
+
+**Thoughts:** At first the `default` keyword was confusing, but when it's origin was understood, it's easier to grasp
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
