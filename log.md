@@ -425,6 +425,16 @@
 
 **Thoughts:** At first the `default` keyword was confusing, but when it's origin was understood, it's easier to grasp
 
+
+### Day 46: July 27, 2018
+### Language: PHP
+
+**Today's Progress:**
+* Worked and studied about Laravel framework
+
+**Thoughts:** I really like the Eloquent thing on Laravel
+
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
