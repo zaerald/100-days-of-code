@@ -443,6 +443,7 @@
 
 **Thoughts:** Working with Laravel framework is easier now because I already have a knowledge on CodeIgniter.
 
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
