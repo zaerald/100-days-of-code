@@ -435,6 +435,14 @@
 **Thoughts:** I really like the Eloquent thing on Laravel
 
 
+### Day 47: July 28, 2018
+### Language: PHP
+
+**Today's Progress:**
+* Worked and studied about Laravel framework
+
+**Thoughts:** Working with Laravel framework is easier now because I already have a knowledge on CodeIgniter.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
