@@ -444,6 +444,14 @@
 **Thoughts:** Working with Laravel framework is easier now because I already have a knowledge on CodeIgniter.
 
 
+### Day 48: July 29, 2018
+### Language: PHP
+
+**Today's Progress:**
+* Worked and studied about Laravel framework
+
+**Thoughts:** Really amazed about the design and architecture of this framework.
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
