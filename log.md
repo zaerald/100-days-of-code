@@ -452,6 +452,15 @@
 
 **Thoughts:** Really amazed about the design and architecture of this framework.
 
+
+### Day 49: July 30, 2018
+### Language: Java
+
+**Today's Progress:**
+* Worked and studied about SWT and JFace Viewers
+
+**Thoughts:** Learned about how different elements works on JFace Viewers
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
