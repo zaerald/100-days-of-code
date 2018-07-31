@@ -461,6 +461,15 @@
 
 **Thoughts:** Learned about how different elements works on JFace Viewers
 
+
+### Day 50: July 31, 2018
+### Language: Java
+
+**Today's Progress:**
+* Worked and studied about Java 8 Advanced Features
+
+**Thoughts:** Learned about how different elements works on JFace Viewers
+
 [devhumor]: http://devhumor.com/
 [fcc]: https://www.freecodecamp.org/
 [js30]: https://javascript30.com/
