@@ -27,4 +27,12 @@
 * Lambda expressions can be assigned to a variable and to a method expecting a Functional Interface as the argument
 * `@FunctionalInterface` annotation is used to indicate that the interface is intended to be a Functional Interface, but it isn't mandatory.
 
+## Day 3: September 05, 2018
+### Language: Java
 
+**Today's Progress:**
+* Practiced with Java 8 Lambdas
+
+**Thoughts:**
+* I am now starting to grasp the topic more
+* Behavior parameterization can now be easily achieved with Lambdas
