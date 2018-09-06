@@ -36,3 +36,22 @@
 **Thoughts:**
 * I am now starting to grasp the topic more
 * Behavior parameterization can now be easily achieved with Lambdas
+
+## Day 4: Septembeer 06, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Java 8 Lambdas
+
+**Thoughts:**
+* I'm having a hard time figuring out how to properly make method references.
+* *target typing* makes the lambda expression can be associated with different functional interface
+* Type Inference sometimes make the code readable 
+  * e.g.
+    * No type inference: `(String s) -> s.length()`
+    * With type inference: `s -> s.length()`
+* *free variables* are variables that aren't the parameters of lambda and defined in an outer scope
+* Local variables can be used inside the lambda but they have to be explcitly declared `final` or effectively `final`. Lambda expressions can capture local variables that are assigned to them only once
+* *method references* refer the method as name rather than by a description of how to call it
+* Target reference is placed before `::` and the name after it.
+* method references can be thinked as a syntactic sugar for lambdas
+
