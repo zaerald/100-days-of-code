@@ -55,3 +55,10 @@
 * Target reference is placed before `::` and the name after it.
 * method references can be thinked as a syntactic sugar for lambdas
 
+## Day 5: Septembeer 07, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Java 8 Lambdas
+
+**Thoughts:**
+* I'm starting to grasp method references properly
