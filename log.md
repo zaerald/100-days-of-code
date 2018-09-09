@@ -62,3 +62,13 @@
 
 **Thoughts:**
 * I'm starting to grasp method references properly
+
+## Day 6: September 09, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Java 8 Lambdas
+
+**Thoughts:**
+* I thought I already grasp the method references, yet I still struggle with it, It feels like I know the topic yet it feels like there's still something missing.
+* Chaning `Comparator`, composing `Predicate`, `Function` is a good example of using interface `default` methods.
+
