@@ -72,3 +72,10 @@
 * I thought I already grasp the method references, yet I still struggle with it, It feels like I know the topic yet it feels like there's still something missing.
 * Chaning `Comparator`, composing `Predicate`, `Function` is a good example of using interface `default` methods.
 
+## Day 7: September 10, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Java 8 Streams
+
+**Thoughts:**
+* Streams make it easier to manipulate collections like querying a database.
