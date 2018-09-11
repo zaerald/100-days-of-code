@@ -79,3 +79,17 @@
 
 **Thoughts:**
 * Streams make it easier to manipulate collections like querying a database.
+
+## Day 8: September 11, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Java 8 Streams and Generics
+
+**Thoughts:**
+* There are times where I got confused with Generics, because when using Streams and Lambdas you'll have to extensively use Generics which means that I still doesn't fully understand Generics especially when there's a wildcards.
+* Streams can be traversed only once
+* There are two types of operations on Streams: *intermediate operations* and *terminal operations*
+* I'm amazed on how the streams have *loop fusion* which makes the *intermediate operations* merged into the same pass.
+* *loop fusion* is applied when there is a *short-circuiting* on the operation
+* I practiced working on Generics again to refresh my knowledge on it.
+* I realized that there are really much need to learn on Generics.
