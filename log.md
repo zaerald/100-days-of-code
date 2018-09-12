@@ -93,3 +93,12 @@
 * *loop fusion* is applied when there is a *short-circuiting* on the operation
 * I practiced working on Generics again to refresh my knowledge on it.
 * I realized that there are really much need to learn on Generics.
+
+## Day 9: September 12, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Java Generics
+
+**Thoughts:**
+* I'm starting to grasp why I can get on `List<? extends Animal>` and can't add. I can add on `List<? super Animal>` and can't get.
+* 
