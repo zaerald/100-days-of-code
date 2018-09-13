@@ -101,4 +101,11 @@
 
 **Thoughts:**
 * I'm starting to grasp why I can get on `List<? extends Animal>` and can't add. I can add on `List<? super Animal>` and can't get.
-* 
+
+## Day 10: September 13, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Java Generics
+
+**Thoughts:**
+* I can't focus properly because I got sick, so I just scanned it and tried working on few concepts.
