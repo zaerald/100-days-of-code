@@ -109,3 +109,11 @@
 
 **Thoughts:**
 * I can't focus properly because I got sick, so I just scanned it and tried working on few concepts.
+
+## Day 11: September 17, 2018
+### Language: Java
+**Today's Progress:**
+* Eclipse RCP JFace Data Binding
+
+**Thoughts:**
+* I still haven't grasped it fully, and got stuck on some part and concepts.
