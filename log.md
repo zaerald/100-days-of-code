@@ -117,3 +117,12 @@
 
 **Thoughts:**
 * I still haven't grasped it fully, and got stuck on some part and concepts.
+
+## Day 12: September 18, 2018
+### Language: Java
+**Today's Progress:**
+* Eclipse RCP JFace Data Binding
+
+**Thoughts:**
+* I'm still having a hard time working with Java Generics because I can't solve the `...unchecked conversion...` without using unknown type `<?>` to parameterize it properly.
+* It's a bit tedious to bind the UI and Models on Java.
