@@ -135,3 +135,11 @@
 **Thoughts:**
 * I still didn't solve the Generics warning 😭
 * Added new knowledge on JFace binding
+
+## Day 14: September 29, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Java Streams
+
+**Thoughts:**
+* Reviewed and tried working on different functions of Streams API
