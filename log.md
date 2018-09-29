@@ -143,3 +143,12 @@
 
 **Thoughts:**
 * Reviewed and tried working on different functions of Streams API
+
+## Day 15: September 30, 2018
+### Language: Java
+**Today's Progress:**
+* Create Fix on eclipse-instasearch
+* Practiced with Java Streams
+
+**Thoughts:**
+* Happily working on open source project as it serves as to help the community and also helps me practice.
