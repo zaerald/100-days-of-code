@@ -152,3 +152,11 @@
 
 **Thoughts:**
 * Happily working on open source project as it serves as to help the community and also helps me practice.
+
+## Day 16: October 01, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Java 8 Streams
+
+**Thoughts:**
+* Finding and matching is also easy with Streams
