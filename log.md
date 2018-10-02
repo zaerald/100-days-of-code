@@ -160,3 +160,19 @@
 
 **Thoughts:**
 * Finding and matching is also easy with Streams
+
+## Day 17: October 02, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Eclipse RCP
+
+**Thoughts:**
+* OSGi is a really good specification and I'm really curioused on how it was implemented with Eclipse Equinox
+
+## Day 18: October 03, 2018
+### Language: Java
+**Today's Progress:**
+* Practiced with Java 8 Streams
+
+**Thoughts:**
+* At first I thought that `reduce()` was just similar to Javascript `reduce` but In Java, you have to `map` it first because a reduce has an Identifier which what makes the type of the accumulator.
