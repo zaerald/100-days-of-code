@@ -22,11 +22,22 @@ Based on [React Components, Elements, and Instances][react-components-elements-i
 [react-element-source]: https://github.com/facebook/react/blob/121bfb03bccf3bdb4c5d1ba7cc53b573edb74434/packages/react/src/ReactElement.js#L300-L386
 [react-components-elements-instances]: https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html
 
-## Day 2: 
-### Tech Stack:
+## Day 2: July 26, 2019
+### Tech Stack: Common JS, React
 
 **Today's Progress:**
-
+* Studied the main similarities and differences of JavaScript and Java.
+* Finished the React Tutorial from their [docs][react-docs-tutorial].
 
 **Thoughts:**
 
+
+[react-docs-tutorial]: https://reactjs.org/tutorial/tutorial.html
+
+## Day 3: 
+### Tech Stack:
+
+**Today's Progress:**
+* 
+
+**Thoughts:**
