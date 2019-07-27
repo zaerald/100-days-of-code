@@ -1,39 +1,57 @@
-# I've joined the #100DaysOfCode Challenge
+# 100 Days Of Code - Log 2
 
-## Contents
+## Day 1: July 25, 2019
+### Tech Stack: React
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+**Today's Progress:**
+* Setup local environment for React
+* Understood some of the main concepts
 
-## Translations
-[español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [русский](intl/ru/README-ru.md) – [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md)
+**Thoughts:**
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+Today I started working on the [React Docs Tutorial][react-docs-tutorial], I mostly worked on the `React.createElement` which is found at [ReactElement.js][react-element-source] as it was firstly introduced when the React transforms the JSX at build time, I tried to understand it's implementation. The React element has the properties of `type`, `key`, `ref`, `props` and the `owner` which is the responsible for creating the element itself. I also found out that the `Reaact.Element` is a description of a `React.Component`, the `React.Component` consists of `props`, `context`, `refs` and an `updater`. 
 
-## If you've decided to join:
+Based on [React Components, Elements, and Instances][react-components-elements-instances]:
+> An *element* is a plain object describing what you want to appear on the screen in terms of the DOM nodes or other components.
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-1.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-1.  **Code minimum an hour every day for the next 100 days.**
-1.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-1.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-1.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-1.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-1.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-1.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+> A *component* ... takes `props` as an input, and returns an `element` tree as the output.
 
-## Want to change other habits?
+> Function components don't have instance at all. Class components, have instances.
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+[react-docs-tutorial]: https://reactjs.org/tutorial/tutorial.html
+[react-element-source]: https://github.com/facebook/react/blob/121bfb03bccf3bdb4c5d1ba7cc53b573edb74434/packages/react/src/ReactElement.js#L300-L386
+[react-components-elements-instances]: https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+## Day 2: July 26, 2019
+### Tech Stack: Common JS, React
 
-## Note
+**Today's Progress:**
+* Studied the main similarities and differences of JavaScript and Java.
+* Finished the React Tutorial from their [docs][react-docs-tutorial].
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+**Thoughts:**
+By looking up the main similarities and differences of JavaScript and Java helped me to understand and unlearn some of the things I needed to learn JavaScript. I also got a good grasped in understanding how React works and ways on how I can implement it properly.
+
+[react-docs-tutorial]: https://reactjs.org/tutorial/tutorial.html
+
+## Day 3: July 27, 2019
+### Tech Stack: CommonJS, React, VueJS
+
+**Today's Progress:**
+* [React JS Crash Course][react-js-crash-course]
+* [Vue JS Crash Course][vue-js-crash-course]
+* Reviewed `this` and `prototype` keywords in JavaScript
+
+**Thoughts:**
+Learning 2 different ways on creating front-end applications with interleaving, I'm still confused if the `prototype` is the same with Java `static` keyword as the `prototype` could exists in all of the instances of the object.
+
+[react-js-crash-course]: https://www.youtube.com/watch?v=sBws8MSXN7A
+[vue-js-crash-course]: https://www.youtube.com/watch?v=Wy9q22isx3U
+
+## Day 4: 
+### Tech Stack: 
+
+**Today's Progress:**
+* 
+
+**Thoughts:**
