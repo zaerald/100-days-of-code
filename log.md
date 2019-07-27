@@ -30,7 +30,7 @@ Based on [React Components, Elements, and Instances][react-components-elements-i
 * Finished the React Tutorial from their [docs][react-docs-tutorial].
 
 **Thoughts:**
-
+By looking up the main similarities and differences of JavaScript and Java helped me to understand and unlearn some of the things I needed to learn JavaScript. I also got a good grasped in understanding how React works and ways on how I can implement it properly.
 
 [react-docs-tutorial]: https://reactjs.org/tutorial/tutorial.html
 
