@@ -34,8 +34,22 @@ By looking up the main similarities and differences of JavaScript and Java helpe
 
 [react-docs-tutorial]: https://reactjs.org/tutorial/tutorial.html
 
-## Day 3: 
-### Tech Stack:
+## Day 3: July 27, 2019
+### Tech Stack: CommonJS, React, VueJS
+
+**Today's Progress:**
+* [React JS Crash Course][react-js-crash-course]
+* [Vue JS Crash Course][vue-js-crash-course]
+* Reviewed `this` and `prototype` keywords in JavaScript
+
+**Thoughts:**
+Learning 2 different ways on creating front-end applications with interleaving, I'm still confused if the `prototype` is the same with Java `static` keyword as the `prototype` could exists in all of the instances of the object.
+
+[react-js-crash-course]: https://www.youtube.com/watch?v=sBws8MSXN7A
+[vue-js-crash-course]: https://www.youtube.com/watch?v=Wy9q22isx3U
+
+## Day 4: 
+### Tech Stack: 
 
 **Today's Progress:**
 * 
