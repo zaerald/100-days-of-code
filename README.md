@@ -22,6 +22,7 @@ Based on [React Components, Elements, and Instances][react-components-elements-i
 [react-element-source]: https://github.com/facebook/react/blob/121bfb03bccf3bdb4c5d1ba7cc53b573edb74434/packages/react/src/ReactElement.js#L300-L386
 [react-components-elements-instances]: https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html
 
+
 ## Day 2: July 26, 2019
 ### Tech Stack: Common JS, React
 
@@ -33,6 +34,7 @@ Based on [React Components, Elements, and Instances][react-components-elements-i
 By looking up the main similarities and differences of JavaScript and Java helped me to understand and unlearn some of the things I needed to learn JavaScript. I also got a good grasped in understanding how React works and ways on how I can implement it properly.
 
 [react-docs-tutorial]: https://reactjs.org/tutorial/tutorial.html
+
 
 ## Day 3: July 27, 2019
 ### Tech Stack: CommonJS, React, VueJS
@@ -48,6 +50,7 @@ Learning 2 different ways on creating front-end applications with interleaving, 
 [react-js-crash-course]: https://www.youtube.com/watch?v=sBws8MSXN7A
 [vue-js-crash-course]: https://www.youtube.com/watch?v=Wy9q22isx3U
 
+
 ## Day 4: July 28, 2019
 ### Tech Stack: Common JS, VueJS, ReactJS
 
@@ -58,6 +61,7 @@ Learning 2 different ways on creating front-end applications with interleaving, 
 **Thoughts:**
 Today I just reviewed some of the projects I created from the tutorials and also added some enhancements from the tutorial to deepen my understanding.
 
+
 ## Day 5: July 29, 2019
 ### Tech Stack: VueJS
 
@@ -66,7 +70,6 @@ Today I just reviewed some of the projects I created from the tutorials and also
 
 **Thoughts:**
 Today I learned more about the VueJS framework with the Vuex and Vue-Router.
-
 
 [learn-vuejs-full-course-for-beginners]: https://www.youtube.com/watch?v=4deVCNJq3qc
 
