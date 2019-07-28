@@ -48,10 +48,21 @@ Learning 2 different ways on creating front-end applications with interleaving, 
 [react-js-crash-course]: https://www.youtube.com/watch?v=sBws8MSXN7A
 [vue-js-crash-course]: https://www.youtube.com/watch?v=Wy9q22isx3U
 
-## Day 4: 
+## Day 4: July 28, 2019
+### Tech Stack: Common JS, VueJS, ReactJS
+
+**Today's Progress:**
+* Reviewed created projects
+* Studied and reviewed some of the topics from ES6
+
+**Thoughts:**
+Today I just reviewed some of the projects I created from the tutorials and also added some enhancements from the tutorial to deepen my understanding.
+
+## Day 5: 
 ### Tech Stack: 
 
 **Today's Progress:**
 * 
 
 **Thoughts:**
+
