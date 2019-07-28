@@ -58,11 +58,23 @@ Learning 2 different ways on creating front-end applications with interleaving, 
 **Thoughts:**
 Today I just reviewed some of the projects I created from the tutorials and also added some enhancements from the tutorial to deepen my understanding.
 
-## Day 5: 
+## Day 5: July 29, 2019
+### Tech Stack: VueJS
+
+**Today's Progress:**
+* [Learn Vue.js - Full Course for Beginners][learn-vuejs-full-course-for-beginners] by Gwendolyn Faraday
+
+**Thoughts:**
+Today I learned more about the VueJS framework with the Vuex and Vue-Router.
+
+
+[learn-vuejs-full-course-for-beginners]: https://www.youtube.com/watch?v=4deVCNJq3qc
+
+
+## Day 6: 
 ### Tech Stack: 
 
 **Today's Progress:**
 * 
 
 **Thoughts:**
-
