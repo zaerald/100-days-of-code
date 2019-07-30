@@ -7,8 +7,7 @@
 * Setup local environment for React
 * Understood some of the main concepts
 
-**Thoughts:**
-
+**Thoughts:** 
 Today I started working on the [React Docs Tutorial][react-docs-tutorial], I mostly worked on the `React.createElement` which is found at [ReactElement.js][react-element-source] as it was firstly introduced when the React transforms the JSX at build time, I tried to understand it's implementation. The React element has the properties of `type`, `key`, `ref`, `props` and the `owner` which is the responsible for creating the element itself. I also found out that the `Reaact.Element` is a description of a `React.Component`, the `React.Component` consists of `props`, `context`, `refs` and an `updater`. 
 
 Based on [React Components, Elements, and Instances][react-components-elements-instances]:
@@ -74,10 +73,20 @@ Today I learned more about the VueJS framework with the Vuex and Vue-Router.
 [learn-vuejs-full-course-for-beginners]: https://www.youtube.com/watch?v=4deVCNJq3qc
 
 
-## Day 6: 
+## Day 6: July 30, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* Started a new course for React which covers more topics and concepts that also includes Redux.
+
+**Thoughts:**
+I managed to review the ES6 portion of that course and the operator '`...`' turns out has 2 behaviors based on the context that is a rest and spread operator, the rest just simply a varargs in Java 😁. Got a good grasp on the modularity of the JavaScript with the import and export.
+
+
+## Day 7: 
 ### Tech Stack: 
 
-**Today's Progress:**
+**Today's Progress:** 
 * 
 
 **Thoughts:**
