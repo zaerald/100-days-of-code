@@ -83,7 +83,18 @@ Today I learned more about the VueJS framework with the Vuex and Vue-Router.
 I managed to review the ES6 portion of that course and the operator '`...`' turns out has 2 behaviors based on the context that is a rest and spread operator, the rest just simply a varargs in Java 😁. Got a good grasp on the modularity of the JavaScript with the import and export.
 
 
-## Day 7: 
+## Day 7: July 31, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* Worked on stateful and stateless components
+* 2 way binding of data
+
+**Thoughts:**
+As working with React I'm a bit comfortable with it and learned most of its basic features and behaviors also noting that when passing a function through props, there's a very small performance hit when using `() => this.someFunction()` compared to using `this.someFunction.bind(this)`, I'll try to look up more about why the latter is more performant.
+
+
+## Day 8: 
 ### Tech Stack: 
 
 **Today's Progress:** 
