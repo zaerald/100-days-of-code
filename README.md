@@ -94,7 +94,17 @@ I managed to review the ES6 portion of that course and the operator '`...`' turn
 As working with React I'm a bit comfortable with it and learned most of its basic features and behaviors also noting that when passing a function through props, there's a very small performance hit when using `() => this.someFunction()` compared to using `this.someFunction.bind(this)`, I'll try to look up more about why the latter is more performant.
 
 
-## Day 8: 
+## Day 8: August 01, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* Dynamically style React components
+
+**Thoughts:**
+
+
+
+## Day 9: 
 ### Tech Stack: 
 
 **Today's Progress:** 
