@@ -105,7 +105,18 @@ As working with React I'm a bit comfortable with it and learned most of its basi
 At first, styling with it feels awkward as you're just really creating an object representation of the styles when setting it up on the JSX file, another thing that I think that it may cause issues when you're importing the css file to the component it is added to the `header` section of the HTML which would affect all of the components currently rendered to the DOM, I'll lookup to find a way to limit the scope or just adding a class to the component container which would be referred to as when selecting the parts of the component.
 
 
-## Day 9: 
+## Day 9: August 02, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* Worked with lists and conditionals
+* Styling React Components & Elements
+
+**Thoughts:**
+
+
+
+## Day 10: 
 ### Tech Stack: 
 
 **Today's Progress:** 
