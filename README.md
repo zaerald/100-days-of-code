@@ -113,7 +113,7 @@ At first, styling with it feels awkward as you're just really creating an object
 * Styling React Components & Elements
 
 **Thoughts:**
-
+Learned more about the difference between `Array.prototype.slice` and `Array.prototype.splice` as the `slice` doesn't affect the original array but the `splice` does. The technique wherein mutating arrays in React, it is better to go for the immutability which results to creating a copy of an array then mutating it. Another key aspect I learned is that when assigning a `key` props to a component as the React creates a virtual and re-renders the list of components it differentiates it to the current DOM and compares the keys and conditionally checks if it can avoid re-rendering the component.
 
 
 ## Day 10: 
