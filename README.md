@@ -124,6 +124,7 @@ Learned more about the difference between `Array.prototype.slice` and `Array.pro
 * Basics of Vuex
 
 **Thoughts:**
+By having Vuex, it is now much easier to work with the data as you're only working with a single source of truth.
 
 ## Day 11: 
 ### Tech Stack: 
