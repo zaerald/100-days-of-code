@@ -126,7 +126,18 @@ Learned more about the difference between `Array.prototype.slice` and `Array.pro
 **Thoughts:**
 By having Vuex, it is now much easier to work with the data as you're only working with a single source of truth.
 
-## Day 11: 
+## Day 11: August 04, 2019
+### Tech Stack: CommonJS, Java
+
+**Today's Progress:** 
+* Worked on Callbacks, Promises, Async/Await and Event Loops of JavaScript.
+* Reviewed Java Streams and the `Collectors` class.
+
+**Thoughts:**
+Learned that `async` is just a syntactic sugar for `promise`.
+
+
+## Day 12: 
 ### Tech Stack: 
 
 **Today's Progress:** 
