@@ -134,7 +134,7 @@ By having Vuex, it is now much easier to work with the data as you're only worki
 * Reviewed Java Streams and the `Collectors` class.
 
 **Thoughts:**
-Learned that `async` is just a syntactic sugar for `promise`.
+Learned that `async` is just a syntactic sugar for `promise`. Writing it is just a bit weird as if you're writing a synchronous function but behaves as an asynchronous function.
 
 
 ## Day 12: 
