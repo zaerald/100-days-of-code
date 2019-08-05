@@ -137,7 +137,19 @@ By having Vuex, it is now much easier to work with the data as you're only worki
 Learned that `async` is just a syntactic sugar for `promise`. Writing it is just a bit weird as if you're writing a synchronous function but behaves as an asynchronous function.
 
 
-## Day 12: 
+## Day 12: August 05, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* Practiced dynamically styling components & elements
+* Learned different ways to debug React applications
+* Diving Deeper into Components & React Internals
+
+**Thoughts:**
+Learned it is hard to have a scoped styling for the component when you're setting up a pseudo selectors, you need to have another dependency to somehting like `Radium`. There's a thing that bothers me about the Error Boundary concept which is a component that wraps another component and thinking if it is a better use case than to just catch the errors instead of wrapping them. Learned some of file structure conventions to organize the source files and improve the modularization of the components.
+
+
+## Day 13: 
 ### Tech Stack: 
 
 **Today's Progress:** 
