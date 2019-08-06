@@ -149,7 +149,19 @@ Learned that `async` is just a syntactic sugar for `promise`. Writing it is just
 Learned it is hard to have a scoped styling for the component when you're setting up a pseudo selectors, you need to have another dependency to somehting like `Radium`. There's a thing that bothers me about the Error Boundary concept which is a component that wraps another component and thinking if it is a better use case than to just catch the errors instead of wrapping them. Learned some of file structure conventions to organize the source files and improve the modularization of the components.
 
 
-## Day 13: 
+## Day 13: August 06, 2019
+### Tech Stack: CommonJS, ReactJS, Java
+
+**Today's Progress:** 
+* CommonJS: Prototypal inheritance
+* ReactJS: Worked more on dynamic styling of components
+* Java: Reviewed generics subtyping and wildcards
+
+**Thoughts:**
+Learned that the `class` in JS are just a syntactic sugar and not a the `class` like Java, the `class` in JS is a prototypal object that is created like a `Function` object and contains the `prototype` which points to the parent. In React I'm still finding a way to style the components like `Vue` with a `scoped` one but found out that we needed a 3rd party library to work on it which is `Radium` as unlike the `Vue`, the template, css, and JS are separated, but with React it is just only a JS that transpiles the jsx syntax into `React.createElement()`.
+
+
+## Day 14: 
 ### Tech Stack: 
 
 **Today's Progress:** 
