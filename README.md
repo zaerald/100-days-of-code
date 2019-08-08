@@ -161,7 +161,19 @@ Learned it is hard to have a scoped styling for the component when you're settin
 Learned that the `class` in JS are just a syntactic sugar and not a the `class` like Java, the `class` in JS is a prototypal object that is created like a `Function` object and contains the `prototype` which points to the parent. In React I'm still finding a way to style the components like `Vue` with a `scoped` one but found out that we needed a 3rd party library to work on it which is `Radium` as unlike the `Vue`, the template, css, and JS are separated, but with React it is just only a JS that transpiles the jsx syntax into `React.createElement()`.
 
 
-## Day 14: 
+## Day 14: August 08, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* Modular CSS
+* Component lifecycle
+* Converting stateless to stateful components
+
+**Thoughts:**
+
+
+
+## Day 15: 
 ### Tech Stack: 
 
 **Today's Progress:** 
