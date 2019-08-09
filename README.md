@@ -173,7 +173,17 @@ Learned that the `class` in JS are just a syntactic sugar and not a the `class` 
 
 
 
-## Day 15: 
+## Day 15: August 09, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* Component updating lifecycle hooks
+* Higher Order Components 
+
+**Thoughts:**
+
+
+## Day 16: 
 ### Tech Stack: 
 
 **Today's Progress:** 
