@@ -183,7 +183,17 @@ Learned that the `class` in JS are just a syntactic sugar and not a the `class` 
 **Thoughts:**
 
 
-## Day 16: 
+## Day 16: August 10, 2019
+### Tech Stack: CommonJS, Java
+
+**Today's Progress:** 
+* CommonJS: Currying, Composing and Functional purity
+* Java: Future and CompletableFuture
+
+**Thoughts:**
+
+
+## Day 17: 
 ### Tech Stack: 
 
 **Today's Progress:** 
