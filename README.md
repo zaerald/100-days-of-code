@@ -193,7 +193,17 @@ Learned that the `class` in JS are just a syntactic sugar and not a the `class` 
 **Thoughts:**
 
 
-## Day 17: 
+## Day 17: August 11, 2019
+### Tech Stack: Redux, VueJS
+
+**Today's Progress:** 
+* Redux Basics
+* VueJS: Unit Testing
+
+**Thoughts:**
+
+
+## Day 18: 
 ### Tech Stack: 
 
 **Today's Progress:** 
