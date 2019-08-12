@@ -170,7 +170,7 @@ Learned that the `class` in JS are just a syntactic sugar and not a the `class` 
 * Converting stateless to stateful components
 
 **Thoughts:**
-
+Finally found the way how to properly scope styling of the components, also learned the lifecycle of each component.
 
 
 ## Day 15: August 09, 2019
@@ -181,6 +181,7 @@ Learned that the `class` in JS are just a syntactic sugar and not a the `class` 
 * Higher Order Components 
 
 **Thoughts:**
+Still don't know when to use each lifecycle hooks but fortunately got aware on these hooks.
 
 
 ## Day 16: August 10, 2019
@@ -191,6 +192,7 @@ Learned that the `class` in JS are just a syntactic sugar and not a the `class` 
 * Java: Future and CompletableFuture
 
 **Thoughts:**
+With currying, composing and functional purity concepts, I only grasped them a little, so I'll go back to these topics in the near future.
 
 
 ## Day 17: August 11, 2019
@@ -203,7 +205,17 @@ Learned that the `class` in JS are just a syntactic sugar and not a the `class` 
 **Thoughts:**
 
 
-## Day 18: 
+
+## Day 18: August 12, 2019
+### Tech Stack: VueJS
+
+**Today's Progress:** 
+* VueJS: Unit Testing
+
+**Thoughts:**
+
+
+## Day 19: 
 ### Tech Stack: 
 
 **Today's Progress:** 
