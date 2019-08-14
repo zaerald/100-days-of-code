@@ -221,14 +221,25 @@ Found myself looking for different resources as I'm having a hard time working o
 
 **Today's Progress:** 
 * CommonJS: Promises, Async/Await and Currying
-* ReactJS: 
+* ReactJS: Using references
 * Java: Stream Map Collection
 
 **Thoughts:**
 Currying helps especially to reduce the number of arguments passed to a function, especially whenever you invoke the function multiple times with the same argument value, this will help like a function generator that holds the passed value that can be used in another function invocation. Working with React, there's so many new terminology and buzz words I encounter like HOCs, functional purity, Pure components and there's too much to handle, so I am planning to work on it bit by bit but on the other hand, I think I grasped the basics of React, I'll just need to practice more of it. With Java's stream collection, I mostly used the `toList()` and there's so much more when using the `Collectors` class, I managed to work on the `Collectors#toMap` to collect the stream.
 
 
-## Day 20: 
+## Day 20: August 14, 2019
+### Tech Stack: ReactJS, Java
+
+**Today's Progress:** 
+* ReactJS: Using `ref` and validating `props` types.
+* Java: Reviewed and practiced `Collectors#groupingBy`, `Collectors#partitioningBy`, and `Collectors#summarizing(Int|Long|Double)`
+
+**Thoughts:**
+I was surprised that React uses a 3rd party library to just check on the property types passed to them, unlike Vue which you can state what are the types that are passed to the child. In Java I'm still having troubles with `groupingBy` especially when passing it with a downstream of `Collectors#mapping` and `Collectors#reducing`.
+
+
+## Day 21: 
 ### Tech Stack: 
 
 **Today's Progress:** 
