@@ -239,7 +239,18 @@ Currying helps especially to reduce the number of arguments passed to a function
 I was surprised that React uses a 3rd party library to just check on the property types passed to them, unlike Vue which you can state what are the types that are passed to the child. In Java I'm still having troubles with `groupingBy` especially when passing it with a downstream of `Collectors#mapping` and `Collectors#reducing`.
 
 
-## Day 21: 
+## Day 21: August 16, 2019
+### Tech Stack: CommonJS, ReactJS, Java
+
+**Today's Progress:** 
+* CommonJS: Reviewed Promises and Async/Await.
+* ReactJS: Learned how to create layout components and the layout container.
+* Java: Reviewed `Collectors` API and especiallly the downstreams of `groupingBy`.
+
+**Thoughts:**
+
+
+## Day 22: 
 ### Tech Stack: 
 
 **Today's Progress:** 
