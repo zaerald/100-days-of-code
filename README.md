@@ -261,7 +261,16 @@ I was surprised that React uses a 3rd party library to just check on the propert
 **Thoughts:**
 
 
-## Day 23: 
+## Day 23: August 18, 2019
+### Tech Stack: VueJS
+
+**Today's Progress:** 
+* Unit Testing
+
+**Thoughts:**
+
+
+## Day 24: 
 ### Tech Stack: 
 
 **Today's Progress:** 
