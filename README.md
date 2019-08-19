@@ -259,6 +259,7 @@ I was surprised that React uses a 3rd party library to just check on the propert
 * Python: CLI for XML Parsing
 
 **Thoughts:**
+For Unit testing in Vue there's a part that I think I get it, but it feels like I still don't get it.
 
 
 ## Day 23: August 18, 2019
@@ -268,9 +269,19 @@ I was surprised that React uses a 3rd party library to just check on the propert
 * Unit Testing
 
 **Thoughts:**
+I tried to tackle it again, and managed to create a unit tests but not too advanced.
+
+## Day 24: August 19, 2019
+### Tech Stack: ReactJS, CommonJS
+
+**Today's Progress:** 
+* ReactJS: Just fiddling and try to break some things and see how other things work
+
+**Thoughts:**
+By doing this, I managed to recall the topics I've gone through and hoping this would strengthen my recall for the topics and concepts of React.
 
 
-## Day 24: 
+## Day 25: 
 ### Tech Stack: 
 
 **Today's Progress:** 
