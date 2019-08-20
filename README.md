@@ -281,7 +281,16 @@ I tried to tackle it again, and managed to create a unit tests but not too advan
 By doing this, I managed to recall the topics I've gone through and hoping this would strengthen my recall for the topics and concepts of React.
 
 
-## Day 25: 
+## Day 25: August 20, 2019
+### Tech Stack: React JS
+
+**Today's Progress:** 
+* Progress on the course
+
+**Thoughts:**
+
+
+## Day 26: 
 ### Tech Stack: 
 
 **Today's Progress:** 
