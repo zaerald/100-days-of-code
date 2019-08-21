@@ -290,10 +290,21 @@ By doing this, I managed to recall the topics I've gone through and hoping this 
 **Thoughts:**
 
 
-## Day 26: 
+## Day 26: August 21, 2019
+### Tech Stack: Java, ReactJS
+
+**Today's Progress:** 
+* Worked on the overview of the Java 11 features
+* ReactJS Course
+
+**Thoughts:**
+
+
+## Day 27: 
 ### Tech Stack: 
 
 **Today's Progress:** 
+* 
 * 
 
 **Thoughts:**
