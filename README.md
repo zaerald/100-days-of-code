@@ -300,7 +300,16 @@ By doing this, I managed to recall the topics I've gone through and hoping this 
 **Thoughts:**
 
 
-## Day 27: 
+## Day 27: August 22, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* ReactJS Course
+
+**Thoughts:**
+
+
+## Day 28: 
 ### Tech Stack: 
 
 **Today's Progress:** 
