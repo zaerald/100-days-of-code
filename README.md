@@ -309,11 +309,19 @@ By doing this, I managed to recall the topics I've gone through and hoping this 
 **Thoughts:**
 
 
+## Day 28: August 23, 2019
+### Tech Stack: Java
+
+**Today's Progress:** 
+* Worked on `Collectors` API and mostly on `groupingBy` collector. 
+
+**Thoughts:**
+
+
 ## Day 28: 
 ### Tech Stack: 
 
 **Today's Progress:** 
-* 
 * 
 
 **Thoughts:**
