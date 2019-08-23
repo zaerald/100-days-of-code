@@ -288,6 +288,7 @@ By doing this, I managed to recall the topics I've gone through and hoping this 
 * Progress on the course
 
 **Thoughts:**
+Mostly followed the tutorial and just try to play with it.
 
 
 ## Day 26: August 21, 2019
@@ -298,6 +299,7 @@ By doing this, I managed to recall the topics I've gone through and hoping this 
 * ReactJS Course
 
 **Thoughts:**
+Found out that there are many new cool features of Java 11.
 
 
 ## Day 27: August 22, 2019
@@ -307,6 +309,7 @@ By doing this, I managed to recall the topics I've gone through and hoping this 
 * ReactJS Course
 
 **Thoughts:**
+Getting the hang of it on React.
 
 
 ## Day 28: August 23, 2019
@@ -316,6 +319,7 @@ By doing this, I managed to recall the topics I've gone through and hoping this 
 * Worked on `Collectors` API and mostly on `groupingBy` collector. 
 
 **Thoughts:**
+Still a bit hard to grasp the topics about the `groupingBy` collector and the downstream.
 
 
 ## Day 28: 
