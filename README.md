@@ -322,7 +322,34 @@ Getting the hang of it on React.
 Still a bit hard to grasp the topics about the `groupingBy` collector and the downstream.
 
 
-## Day 28: 
+*3 day span as I'm out of town and having no physical access to computer*
+
+## Day 29: August 27, 2019
+### Tech Stack: Java
+
+**Today's Progress:** 
+* Worked on `Collectors` and reviewed it.
+
+**Thoughts:**
+Now having a good grasp on the usage of the `Collectors` API as I'm mostly using `Collectors#toList`.
+I have tackled
+  * `toList()` - commonly used and familiar with it already
+  * `toSet()` - not hard to grasp as it is mostly similar with `toList()`
+  * `toCollection()` - this one is different as you're telling which implementation to be used
+  * `toMap()` - this needs two parameters, the keyMapper and valueMapper to create the mapping, and another parameter to resolve the duplicates of the values.
+  * `collectingAndThen()` - this helps chaining the collection
+  * `joining()` - only used in `Stream<String>` to join them, we could add delimters and also having post and pre delimeters.
+  * `counting()` - this just basically counts the number of Stream elements
+  * `summarizingDouble/Long/Int()` - creates a statistics of the given value
+  * `averagingDouble/Long/Int()` - generates the avarage of the given value based on the Stream elements
+  * `summingDouble/Long/Int()` - this is the same as `averagingDouble/Long/Int()` but just getting the total value
+  * `maxBy()` and `minBy()` - returns the max or min value based on the `Comparator` and also wrapped with `Optional`
+  * `groupingBy()` - this could also be another topic but also reviewed it, just also groups the values and creates a Map instance
+  * `partitioningBy()` - specialized `groupingBy()` that generates the type of `Map<Boolean, SomeTypeHere>` based on the predicate.
+I found out that I still do not fully grasp or not having practiced the `Comparator` interface used for sorting and was also used in `maxBy()` and `minBy()` so I'll tackle it for tomorrow.
+
+
+## Day 30: 
 ### Tech Stack: 
 
 **Today's Progress:** 
