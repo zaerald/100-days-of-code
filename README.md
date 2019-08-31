@@ -359,7 +359,17 @@ I found out that I still do not fully grasp or not having practiced the `Compara
 Happy that I had tackled it as it can be mostly used in Streams, I also got to know how deal with `null` values when sorting, I can use `Comparator#nullsFirst` and `Comparator#nullsLast` to properly sort values with `null` as their comparator. With `Comparator#naturalOrder` we have to implement the `Comparable<T>` and would have `compareTo` method to override which would be used when sorting it with `Comparator#naturalOrder` and also the reverse with `Comparator#reverseOrder`.
 
 
-## Day 31: 
+## Day 31: August 29, 2019
+### Tech Stack: Java
+
+**Today's Progress:** 
+* Practice `Collector#groupBy` and especially its downstream.
+
+**Thoughts:**
+Now I'm feeling comfortable using the `groupBy` from the `Collector`.
+
+
+## Day 32: 
 ### Tech Stack: 
 
 **Today's Progress:** 
