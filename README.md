@@ -369,7 +369,17 @@ Happy that I had tackled it as it can be mostly used in Streams, I also got to k
 Now I'm feeling comfortable using the `groupBy` from the `Collector`.
 
 
-## Day 32: 
+## Day 33: August 30, 2019
+### Tech Stack: Python
+
+**Today's Progress:** 
+* Worked on modifying `xml` files
+
+**Thoughts:**
+This helped on traversing the files, modifying and writing it.
+
+
+## Day 34: 
 ### Tech Stack: 
 
 **Today's Progress:** 
