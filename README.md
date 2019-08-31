@@ -379,6 +379,17 @@ Now I'm feeling comfortable using the `groupBy` from the `Collector`.
 This helped on traversing the files, modifying and writing it.
 
 
+## Day 34: August 31, 2019
+### Tech Stack: ReactJS, Python
+
+**Today's Progress:** 
+* ReactJS: Course progress
+* Python: Continued working on the `xml` file modification and some Command Line Interface
+
+**Thoughts:**
+Learning ReactJS for me it starts to not feel good about it, I don't know why maybe because I like working on the backend stuff
+
+
 ## Day 34: 
 ### Tech Stack: 
 
