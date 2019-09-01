@@ -369,7 +369,7 @@ Happy that I had tackled it as it can be mostly used in Streams, I also got to k
 Now I'm feeling comfortable using the `groupBy` from the `Collector`.
 
 
-## Day 33: August 30, 2019
+## Day 32: August 30, 2019
 ### Tech Stack: Python
 
 **Today's Progress:** 
@@ -379,7 +379,7 @@ Now I'm feeling comfortable using the `groupBy` from the `Collector`.
 This helped on traversing the files, modifying and writing it.
 
 
-## Day 34: August 31, 2019
+## Day 33: August 31, 2019
 ### Tech Stack: ReactJS, Python
 
 **Today's Progress:** 
@@ -390,7 +390,18 @@ This helped on traversing the files, modifying and writing it.
 Learning ReactJS for me it starts to not feel good about it, I don't know why maybe because I like working on the backend stuff
 
 
-## Day 34: 
+## Day 34: September 01, 2019
+### Tech Stack: Python
+
+**Today's Progress:** 
+* Worked on file manipulations
+* Modularizations
+
+**Thoughts:**
+Learned many things with this, as it helped me to get deeper on some of it and played with it.
+
+
+## Day 35: 
 ### Tech Stack: 
 
 **Today's Progress:** 
