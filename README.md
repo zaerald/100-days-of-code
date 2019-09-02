@@ -401,10 +401,22 @@ Learning ReactJS for me it starts to not feel good about it, I don't know why ma
 Learned many things with this, as it helped me to get deeper on some of it and played with it.
 
 
-## Day 35: 
+## Day 35: September 02, 2019
+### Tech Stack: Python
+
+**Today's Progress:** 
+* Studied the differences of it with Java
+* Worked on the Abstract Base Classes (ABC)
+
+**Thoughts:**
+As the python doesn't have that same abstract interface with Java, I tried to lookup on how to do things in a Python way.
+
+
+## Day 36: 
 ### Tech Stack: 
 
 **Today's Progress:** 
 * 
 
 **Thoughts:**
+
