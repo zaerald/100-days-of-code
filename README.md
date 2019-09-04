@@ -412,11 +412,20 @@ Learned many things with this, as it helped me to get deeper on some of it and p
 As the python doesn't have that same abstract interface with Java, I tried to lookup on how to do things in a Python way.
 
 
-## Day 36: 
+## Day 36: September 03, 2019
+### Tech Stack: Python
+
+**Today's Progress:** 
+* Practiced with `argparse`
+
+**Thoughts:**
+While working with it, I've managed to explore more of its capabilities and will look on how I can create global configurations, I'm thinking of setting it up like `git --global` config to put the file somewhere
+
+
+## Day 37: 
 ### Tech Stack: 
 
 **Today's Progress:** 
 * 
 
 **Thoughts:**
-
