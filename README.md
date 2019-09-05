@@ -422,7 +422,17 @@ As the python doesn't have that same abstract interface with Java, I tried to lo
 While working with it, I've managed to explore more of its capabilities and will look on how I can create global configurations, I'm thinking of setting it up like `git --global` config to put the file somewhere
 
 
-## Day 37: 
+## Day 37: September 05, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* ReactJS Course
+
+**Thoughts:**
+Starting to get the hang of it, but there are times I forgot about some features and things that I had learned and it shows that's a good thing because I just needed to practice more and try to use those things that are fundamentals that would help me to build things.
+
+
+## Day 38: 
 ### Tech Stack: 
 
 **Today's Progress:** 
