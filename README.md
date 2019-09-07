@@ -442,7 +442,18 @@ Starting to get the hang of it, but there are times I forgot about some features
 I am a bit motivated to do some things as I am now seeing the output of my work.
 
 
-## Day 39: 
+## Day 39: September 07, 2019
+### Tech Stack: CommonJS, ReactJS
+
+**Today's Progress:** 
+* RactJS Course
+* Practiced some [JS Promises and Observables](https://scotch.io/tutorials/javascript-promises-for-dummies)
+
+**Thoughts:**
+Learned about the difference of Promises and Observerables wherein, Promises are eager and Observables are lazy and also Promises can only be asynchronized wherein Observables can be asynchronized and synchronized.
+
+
+## Day 40: 
 ### Tech Stack: 
 
 **Today's Progress:** 
