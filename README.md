@@ -432,7 +432,17 @@ While working with it, I've managed to explore more of its capabilities and will
 Starting to get the hang of it, but there are times I forgot about some features and things that I had learned and it shows that's a good thing because I just needed to practice more and try to use those things that are fundamentals that would help me to build things.
 
 
-## Day 38: 
+## Day 38: September 06, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* ReactJS Course
+
+**Thoughts:**
+I am a bit motivated to do some things as I am now seeing the output of my work.
+
+
+## Day 39: 
 ### Tech Stack: 
 
 **Today's Progress:** 
