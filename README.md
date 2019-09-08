@@ -453,7 +453,17 @@ I am a bit motivated to do some things as I am now seeing the output of my work.
 Learned about the difference of Promises and Observerables wherein, Promises are eager and Observables are lazy and also Promises can only be asynchronized wherein Observables can be asynchronized and synchronized.
 
 
-## Day 40: 
+## Day 40: September 08, 2019
+### Tech Stack: ReactJS
+
+**Today's Progress:** 
+* ReactJS Course
+
+**Thoughts:**
+Continued the course and found out that some of what I learned I tend to forget, so I need to expose myself of it again and again.
+
+
+## Day 41: 
 ### Tech Stack: 
 
 **Today's Progress:** 
