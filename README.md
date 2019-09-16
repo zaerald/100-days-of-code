@@ -463,7 +463,19 @@ Learned about the difference of Promises and Observerables wherein, Promises are
 Continued the course and found out that some of what I learned I tend to forget, so I need to expose myself of it again and again.
 
 
-## Day 41: 
+*Never got the chance to work on a week because of some emergencies and had vacation which I do not have a physical access to computer*
+
+## Day 41: September 16, 2019
+### Tech Stack: Java
+
+**Today's Progress:** 
+* Java Reflection
+
+**Thoughts:**
+
+
+
+## Day 42: 
 ### Tech Stack: 
 
 **Today's Progress:** 
