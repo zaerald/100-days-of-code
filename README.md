@@ -472,7 +472,7 @@ Continued the course and found out that some of what I learned I tend to forget,
 * Java Reflection
 
 **Thoughts:**
-
+Finally got the time to learn the reflection which is used mostly on Spring framework. There are different ways to invoke methods and create instances, I would like to see some real world use cases when to use and not to use reflection.
 
 
 ## Day 42: 
