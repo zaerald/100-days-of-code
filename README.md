@@ -475,7 +475,18 @@ Continued the course and found out that some of what I learned I tend to forget,
 Finally got the time to learn the reflection which is used mostly on Spring framework. There are different ways to invoke methods and create instances, I would like to see some real world use cases when to use and not to use reflection.
 
 
-## Day 42: 
+## Day 42: September 17, 2019
+### Tech Stack: Java
+
+**Today's Progress:** 
+* Strategy Design Pattern
+* Observer Design Pattern
+
+**Thoughts:**
+Reviewed some of the design patterns and tried to write the implementation of it.
+
+
+## Day 43: 
 ### Tech Stack: 
 
 **Today's Progress:** 
