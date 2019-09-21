@@ -486,7 +486,19 @@ Finally got the time to learn the reflection which is used mostly on Spring fram
 Reviewed some of the design patterns and tried to write the implementation of it.
 
 
-## Day 43: 
+## Day 43: September 21, 2019
+### Tech Stack: Java
+
+**Today's Progress:** 
+* Factory Pattern
+* Abstract Factory Pattern
+* Singleton Pattern
+
+**Thoughts:**
+Reviewed Factory Pattern and Singleton Pattern, and suprised that I have forgotten about the Abstract Factory Pattern as I do not encounter the problem to use it.
+
+
+## Day 44: 
 ### Tech Stack: 
 
 **Today's Progress:** 
